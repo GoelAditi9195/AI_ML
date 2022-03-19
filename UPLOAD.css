@@ -1,0 +1,16 @@
+/* build your own custom Bootstrap theme:
+   https://themestr.app
+*/
+.background_image_design{
+    background-color: blue;
+}
+
+.border_card{
+    border-radius: 15px 0px 0px 15px;
+}
+
+.svg_div{
+    position: relative;
+    left: 100px;
+    top: 0;
+}
